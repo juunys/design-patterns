@@ -1,16 +1,16 @@
 package main
 
-type Builder interface {
+type HouseBuilder interface {
 	setWindowType()
 	setDoorType()
 	setNumFloorType()
 	getHouse() House
 }
 
-func GetNormalBuilder() Builder {
+func GetNormalBuilder() HouseBuilder {
 	return newNormalBuilder()
 }
 
-func GetVipBuilder() Builder {
+func GetVipBuilder() HouseBuilder {
 	return newVipBuilder()
 }
