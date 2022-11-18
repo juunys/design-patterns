@@ -1,8 +1,8 @@
 package main
 
 import (
-	c "github.com/juunys/creational/factory/creator"
-	p "github.com/juunys/creational/factory/product"
+	c "github.com/juunys/creational/factory-method/creator"
+	p "github.com/juunys/creational/factory-method/product"
 )
 
 // serves as a factory, which creates guns of the desired type based on an incoming argumen

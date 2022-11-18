@@ -1,7 +1,7 @@
 package creator
 
 import (
-	p "github.com/juunys/creational/factory/product"
+	p "github.com/juunys/creational/factory-method/product"
 )
 
 // concrete gun - embed gun struct and indirectly implement all GunProduct methods.
