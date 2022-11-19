@@ -1,4 +1,4 @@
-package product
+package model
 
 import "fmt"
 
@@ -8,19 +8,19 @@ type Gun struct {
 	Power int
 }
 
-func (g *Gun) setName(name string) {
+func (g *Gun) SetName(name string) {
 	g.Name = name
 }
 
-func (g *Gun) setPower(power int) {
+func (g *Gun) SetPower(power int) {
 	g.Power = power
 }
 
-func (g *Gun) getName() string {
+func (g *Gun) GetName() string {
 	return g.Name
 }
 
-func (g *Gun) getPower() int {
+func (g *Gun) GetPower() int {
 	return g.Power
 }
 
