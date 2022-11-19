@@ -2,26 +2,23 @@ package main
 
 import (
 	"fmt"
+
+	d "github.com/juunys/creational/builder/director"
+	i "github.com/juunys/creational/builder/interface"
 )
 
 func main() {
-	normalBuilder := GetNormalBuilder()
-	vipBuilder := GetVipBuilder()
+	normalBuilder := i.GetNormalBuilder()
+	vipBuilder := i.GetVipBuilder()
 
-	director := NewDirector(normalBuilder)
-	normalHouse := director.buildHouse()
+	director := d.NewDirector(normalBuilder)
+	normalHouse := director.BuildHouse()
 
-	fmt.Println("** Normal House **")
-	fmt.Printf("Door type: %s\n", normalHouse.doorType)
-	fmt.Printf("Window type: %s\n", normalHouse.windowType)
-	fmt.Printf("Floor type: %d\n", normalHouse.floor)
+	println(normalHouse)
 
 	fmt.Println()
-	director.setBuilder(vipBuilder)
-	vipHouse := director.buildHouse()
+	director.SetBuilder(vipBuilder)
+	vipHouse := director.BuildHouse()
 
-	fmt.Println("** Vip House **")
-	fmt.Printf("Door type: %s\n", vipHouse.doorType)
-	fmt.Printf("Window type: %s\n", vipHouse.windowType)
-	fmt.Printf("Floor type: %d\n", vipHouse.floor)
+	println(vipHouse)
 }
