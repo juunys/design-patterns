@@ -1,9 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	i "github.com/juunys/creational/prototype/interface"
+)
 
 func main() {
-	person1 := GetPerson()
+	person1 := i.GetPerson()
 
 	clonedPerson := person1.Clone()
 	clonedPerson.Name = "Mary Jane"
