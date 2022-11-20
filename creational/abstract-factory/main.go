@@ -7,8 +7,8 @@ import (
 )
 
 func main() {
-	adidasFactory := factory.GetAdidasSportsFactory()
-	nikeFactory := factory.GetNikeSportsFactory()
+	adidasFactory := factory.NewAdidasFactory()
+	nikeFactory := factory.NewNikeFactory()
 
 	adidasShoe := adidasFactory.MakeShoe(39)
 	adidasShirt := adidasFactory.MakeShirt("P")

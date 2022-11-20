@@ -9,6 +9,10 @@ import (
 type NikeFactory struct {
 }
 
+func NewNikeFactory() SportsFactory {
+	return &NikeFactory{}
+}
+
 func (n *NikeFactory) MakeShoe(size int) se.ShoeProduct {
 	return &se.NikeShoe{
 		Shoe: se.Shoe{
