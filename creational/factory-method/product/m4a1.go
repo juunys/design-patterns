@@ -1,7 +1,6 @@
 package product
 
 import (
-	i "github.com/juunys/creational/factory-method/interface"
 	m "github.com/juunys/creational/factory-method/model"
 )
 
@@ -26,7 +25,7 @@ func (g *M4A1) GetPower() int {
 	return g.Power
 }
 
-func NewM4A1() i.GunProduct {
+func NewM4A1() GunProduct {
 	return &M4A1{
 		Gun: m.Gun{
 			Name:  "M4A1",

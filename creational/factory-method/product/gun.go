@@ -1,4 +1,4 @@
-package fInterface
+package product
 
 // product interface
 // defines all methods a gun should have
