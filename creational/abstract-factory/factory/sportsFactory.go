@@ -1,8 +1,8 @@
 package factory
 
 import (
-	st "github.com/juunys/creational/abstract-method/product/shirt"
-	se "github.com/juunys/creational/abstract-method/product/shoe"
+	st "github.com/juunys/creational/abstract-factory/product/shirt"
+	se "github.com/juunys/creational/abstract-factory/product/shoe"
 )
 
 // Abstract factory
