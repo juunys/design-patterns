@@ -3,3 +3,4 @@
 - **Adapter**: converts the interface of a class into another interface expected by clients. The Adapter allows certain classes to work together that would otherwise be impossible because of their incompatible interfaces;
 - **Bridge**: lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other;
 - **Decorator**: lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors;
+- **Facade**: provides a simplified interface to a library, a framework, or any other complex set of classes.
