@@ -7,7 +7,7 @@ import (
 )
 
 type Folder struct {
-	Components []c.Component
+	components []c.Component
 	Name       string
 }
 
@@ -19,11 +19,11 @@ func NewFolder(name string) *Folder {
 
 func (f *Folder) Search(keyword string) {
 	fmt.Printf("Serching recursively for keyword %s in folder %s\n", keyword, f.Name)
-	for _, composite := range f.Components {
-		composite.Search(keyword)
+	for _, component := range f.components {
+		component.Search(keyword)
 	}
 }
 
 func (f *Folder) Add(c c.Component) {
-	f.Components = append(f.Components, c)
+	f.components = append(f.components, c)
 }
