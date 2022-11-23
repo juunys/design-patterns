@@ -1,4 +1,4 @@
-# Facade pattern
+# Composite pattern
 
 ## Intention
 
