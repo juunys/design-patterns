@@ -14,7 +14,7 @@ func NewNginxProxy() *Nginx {
 	}
 }
 
-func (n *Nginx) 																																																																																																																																																																																																																																																																																																																																																																	`(url, method string) (int, string) {
+func (n *Nginx) HandleRequest(url, method string) (int, string) {
 	allowed := n.checkRateLimiting(url)
 	if !allowed {
 		return 403, "Max request reached"
