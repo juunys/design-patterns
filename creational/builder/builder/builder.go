@@ -1,7 +1,6 @@
-package bInterface
+package builder
 
 import (
-	c "github.com/juunys/creational/builder/concrete-builder"
 	m "github.com/juunys/creational/builder/model"
 )
 
@@ -13,9 +12,9 @@ type HouseBuilder interface {
 }
 
 func GetNormalBuilder() HouseBuilder {
-	return c.NewNormalBuilder()
+	return newNormalBuilder()
 }
 
 func GetVipBuilder() HouseBuilder {
-	return c.NewVipBuilder()
+	return newVipBuilder()
 }

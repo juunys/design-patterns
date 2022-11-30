@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	tv := &receiver.Tv{}
+	tv := receiver.NewTvDevice()
 
 	onCommand := command.NewOnCommand(tv)
 	offCommand := command.NewOffCommand(tv)

@@ -1,4 +1,4 @@
-package concreteBuilder
+package builder
 
 import (
 	"fmt"
@@ -6,29 +6,29 @@ import (
 	m "github.com/juunys/creational/builder/model"
 )
 
-type VipBuilder struct {
+type vipBuilder struct {
 	windowType string
 	doorType   string
 	floor      int8
 }
 
-func NewVipBuilder() *VipBuilder {
-	return &VipBuilder{}
+func newVipBuilder() *vipBuilder {
+	return &vipBuilder{}
 }
 
-func (b *VipBuilder) SetWindowType() {
+func (b *vipBuilder) SetWindowType() {
 	b.windowType = "Glass window"
 }
 
-func (b *VipBuilder) SetDoorType() {
+func (b *vipBuilder) SetDoorType() {
 	b.doorType = "Glass door"
 }
 
-func (b *VipBuilder) SetNumFloorType() {
+func (b *vipBuilder) SetNumFloorType() {
 	b.floor = 3
 }
 
-func (b *VipBuilder) GetHouse() m.House {
+func (b *vipBuilder) GetHouse() m.House {
 	return m.House{
 		DoorType:   b.doorType,
 		WindowType: b.windowType,
@@ -36,7 +36,7 @@ func (b *VipBuilder) GetHouse() m.House {
 	}
 }
 
-func (b *VipBuilder) String() string {
+func (b *vipBuilder) String() string {
 	return fmt.Sprintf("* VipHouse *\n Door Type: %s\nWindow Type: %s\nFloor: %d",
 		b.doorType,
 		b.windowType,

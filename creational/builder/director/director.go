@@ -1,21 +1,21 @@
 package director
 
 import (
-	i "github.com/juunys/creational/builder/interface"
+	b "github.com/juunys/creational/builder/builder"
 	m "github.com/juunys/creational/builder/model"
 )
 
 type HouseDirector struct {
-	builder i.HouseBuilder
+	builder b.HouseBuilder
 }
 
-func NewDirector(b i.HouseBuilder) *HouseDirector {
+func NewDirector(b b.HouseBuilder) *HouseDirector {
 	return &HouseDirector{
 		builder: b,
 	}
 }
 
-func (d *HouseDirector) SetBuilder(b i.HouseBuilder) {
+func (d *HouseDirector) SetBuilder(b b.HouseBuilder) {
 	d.builder = b
 }
 

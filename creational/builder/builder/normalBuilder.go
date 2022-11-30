@@ -1,4 +1,4 @@
-package concreteBuilder
+package builder
 
 import (
 	"fmt"
@@ -6,29 +6,29 @@ import (
 	m "github.com/juunys/creational/builder/model"
 )
 
-type NormalBuilder struct {
+type normalBuilder struct {
 	windowType string
 	doorType   string
 	floor      int8
 }
 
-func NewNormalBuilder() *NormalBuilder {
-	return &NormalBuilder{}
+func newNormalBuilder() *normalBuilder {
+	return &normalBuilder{}
 }
 
-func (b *NormalBuilder) SetWindowType() {
+func (b *normalBuilder) SetWindowType() {
 	b.windowType = "Wooden window"
 }
 
-func (b *NormalBuilder) SetDoorType() {
+func (b *normalBuilder) SetDoorType() {
 	b.doorType = "Wooden door"
 }
 
-func (b *NormalBuilder) SetNumFloorType() {
+func (b *normalBuilder) SetNumFloorType() {
 	b.floor = 1
 }
 
-func (b *NormalBuilder) GetHouse() m.House {
+func (b *normalBuilder) GetHouse() m.House {
 	return m.House{
 		DoorType:   b.doorType,
 		WindowType: b.windowType,
@@ -36,7 +36,7 @@ func (b *NormalBuilder) GetHouse() m.House {
 	}
 }
 
-func (b *NormalBuilder) String() string {
+func (b *normalBuilder) String() string {
 	return fmt.Sprintf("* NormalHouse *\n Door Type: %s\nWindow Type: %s\nFloor: %d",
 		b.doorType,
 		b.windowType,

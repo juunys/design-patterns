@@ -6,6 +6,10 @@ type Tv struct {
 	isRunning bool
 }
 
+func newTv() *Tv {
+	return &Tv{}
+}
+
 func (t *Tv) On() {
 	t.isRunning = true
 	fmt.Println("Turning tv on")

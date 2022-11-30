@@ -3,13 +3,13 @@ package main
 import (
 	"fmt"
 
+	b "github.com/juunys/creational/builder/builder"
 	d "github.com/juunys/creational/builder/director"
-	i "github.com/juunys/creational/builder/interface"
 )
 
 func main() {
-	normalBuilder := i.GetNormalBuilder()
-	vipBuilder := i.GetVipBuilder()
+	normalBuilder := b.GetNormalBuilder()
+	vipBuilder := b.GetVipBuilder()
 
 	director := d.NewDirector(normalBuilder)
 	normalHouse := director.BuildHouse()

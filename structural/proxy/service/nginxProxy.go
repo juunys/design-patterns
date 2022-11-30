@@ -1,14 +1,14 @@
 package service
 
 type Nginx struct {
-	Application       *Application
+	application       *Application
 	maxAllowedRequest int
 	rateLimiter       map[string]int
 }
 
 func NewNginxProxy() *Nginx {
 	return &Nginx{
-		Application:       &Application{},
+		application:       &Application{},
 		maxAllowedRequest: 2,
 		rateLimiter:       make(map[string]int),
 	}
@@ -19,7 +19,7 @@ func (n *Nginx) HandleRequest(url, method string) (int, string) {
 	if !allowed {
 		return 403, "Max request reached"
 	}
-	return n.Application.HandleRequest(url, method)
+	return n.application.HandleRequest(url, method)
 }
 
 func (n *Nginx) checkRateLimiting(url string) bool {
