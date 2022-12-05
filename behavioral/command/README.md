@@ -8,7 +8,7 @@
 
 ## Applicability
 
-Use the Memento factory when:
+Use the Command factory when:
 * you want to parametrize objects with operations.;
 * you want to queue operations, schedule their execution, or execute them remotely;
 * you want to implement reversible operations.
