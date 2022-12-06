@@ -1,4 +1,4 @@
-# Memento pattern
+# Strategy pattern
 
 ## Intention
 

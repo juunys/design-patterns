@@ -1,5 +1,6 @@
 # Behavioral Patterns
 
+- **Chain of responsibility**: prevents coupling the sender of a request to its receiver, giving more than one object a chance to handle the request. Chains the receiving objects and passes the request along the chain until an object handles it;
 - **Command**: Encapsulates a request as an object, thereby allowing you to parameterize clients with different requests, queue or log requests, and support undoable operations;
 - **Iterator**: provides a way to sequentially access the elements of an aggregate object without exposing its underlying representation
 - **Mediator**: defines an object that encapsulates how a set of objects interact. The mediator promotes loose coupling by preventing objects from explicitly referring to each other, allowing you to vary their interactions independently;
