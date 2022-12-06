@@ -1,21 +1,33 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	v "github.com/juunys/behavioral/visitor/visitor"
+)
 
 func main() {
-	square := NewSquare(2)
-	circle := NewCircle(3)
-	rectangle := NewRectangle(2, 3)
+	food := v.NewFood(10)
+	cigarette := v.NewCigarette(5)
+	alcoholicDrink := v.NewAlcoholicDrink(50)
 
-	areaCalculator := NewAreaCalculator()
+	brazilTaxVisitor := v.NewBrazilTaxVisitor()
+	usTaxVisitor := v.NewUSTaxVisitor()
 
-	square.accept(areaCalculator)
-	circle.accept(areaCalculator)
-	rectangle.accept(areaCalculator)
+	var cart []v.Product
+	cart = append(cart, food)
+	cart = append(cart, cigarette)
+	cart = append(cart, alcoholicDrink)
+	totalBR := float32(0)
+	for _, item := range cart {
+		totalBR += item.GetPriceWithTaxes(brazilTaxVisitor)
+	}
 
-	fmt.Println()
-	middleCoordinates := NewMiddlewareCoordinates()
-	square.accept(middleCoordinates)
-	circle.accept(middleCoordinates)
-	rectangle.accept(middleCoordinates)
+	totalUS := float32(0)
+	for _, item := range cart {
+		totalUS += item.GetPriceWithTaxes(usTaxVisitor)
+	}
+
+	fmt.Println("Total taxes BR: ", totalBR)
+	fmt.Println("Total taxes US:", totalUS)
 }
