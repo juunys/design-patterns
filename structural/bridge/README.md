@@ -8,7 +8,7 @@
 
 ## Applicability
 
-Use the Adapter when:
+Use the Bridge when:
 * you don't want your code to rely directly on third-party or legacy code;
 * you want to use an existing class but its interface is incompatible with the interface your code or domain needs;
 * you want to reuse multiple subclasses that lack certain functionality but it's impractical to extend the code of each just to add the functionality you want.

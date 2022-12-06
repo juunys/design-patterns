@@ -8,7 +8,7 @@
 
 ## Applicability
 
-Use the Memento factory when:
+Use the Strategy when:
 * you want to use different variants of an algorithm within an object and be able to switch from one algorithm to another during runtime;
 * you have a lot of similar classes that only differ in the way they execute some behavior;
 * you want to isolate the business logic of a class from the implementation details of algorithms that may not be as important in the context of that logic;

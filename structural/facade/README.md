@@ -6,7 +6,7 @@
 
 ---
 
-The Façade is the simplest pattern of all. It is intended to make life easier for client code by creating a facade object for a more complex system.
+The Facade is the simplest pattern of all. It is intended to make life easier for client code by creating a facade object for a more complex system.
 
 ## Applicability
 

@@ -1,4 +1,4 @@
-# Facade pattern
+# Proxy pattern
 
 ## Intention
 
@@ -6,11 +6,9 @@
 
 ---
 
-The Façade is the simplest pattern of all. It is intended to make life easier for client code by creating a facade object for a more complex system.
-
 ## Applicability
 
-Use the Facade when:
+Use the Proxy when:
 * you have an expensive object to be created and you don't want to allow direct access to that object (virtual proxy);
 * you want to restrict access to parts of your application (protection proxy);
 * you want a link between your system and a remote system. The proxy can pretend to be the remote object's interface and handle all the complexity of connection and data transmission (remote proxy)

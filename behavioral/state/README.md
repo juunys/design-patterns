@@ -8,7 +8,7 @@
 
 ## Applicability
 
-Use the Command factory when:
+Use the State when:
 * you have an object that behaves differently depending on its current state, the number of states is enormous, and the state-specific code changes frequently;
 * you have a class polluted with massive conditionals that alter how the class behaves according to the current values of the class’s fields;
 * you have a lot of duplicate code across similar states and transitions of a condition-based state machine.

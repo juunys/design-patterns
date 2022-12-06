@@ -8,7 +8,7 @@
 
 ## Applicability
 
-Use the Memento factory when:
+Use the Chain of resposibility when:
 * your program is expected to process different kinds of requests in various ways, but the exact types of requests and their sequences are unknown beforehand;
 * it’s essential to execute several handlers in a particular order;
 * the set of handlers and their order are supposed to change at runtime.

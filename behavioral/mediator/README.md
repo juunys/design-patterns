@@ -8,7 +8,7 @@
 
 ## Applicability
 
-Use the Memento factory when:
+Use the Mediator when:
 * it’s hard to change some of the classes because they are tightly coupled to a bunch of other classes;
 * you can’t reuse a component in a different program because it’s too dependent on other components;
 * you find yourself creating tons of component subclasses just to reuse some basic behavior in various contexts.

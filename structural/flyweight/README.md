@@ -1,4 +1,4 @@
-# Facade pattern
+# Flyweight pattern
 
 ## Intention
 

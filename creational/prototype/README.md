@@ -1,4 +1,4 @@
-# Builder pattern
+# Prototype pattern
 
 ## Intention
 
