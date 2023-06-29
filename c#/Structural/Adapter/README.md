@@ -2,14 +2,14 @@
 - Adapts one interface to another according to the customer's expectations.
 - Enables object collaboration with unrivaled interfaces.
 
-##Target
+## Target
 Defines a interface of the specific domain that uses it
 
-##Adaptee
+## Adaptee
 Defines an existent interface that needs to be adapted
 
-##Adapter
+## Adapter
 Adapts the interface Adaptee to the interface of the Target class
 
-##Client
+## Client
 Collaborate with objects conforming to the Target interface
