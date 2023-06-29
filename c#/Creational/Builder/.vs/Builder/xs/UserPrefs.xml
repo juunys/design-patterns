@@ -1,27 +1,4 @@
 ﻿<Properties StartupConfiguration="{6AC48591-2CED-4184-B130-19E7C89C35C3}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Builder PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Builder" expanded="True">
-            <Node name="Builder" expanded="True">
-              <Node name="Builder" expanded="True" />
-              <Node name="ConcreteBuilder" expanded="True" />
-              <Node name="Director" expanded="True" />
-              <Node name="Product" expanded="True">
-                <Node name="Size.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Builder FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>
