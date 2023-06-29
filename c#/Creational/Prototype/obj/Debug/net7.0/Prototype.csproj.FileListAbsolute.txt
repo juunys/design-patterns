@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/bin/Debug/net7.0/Prototype
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/bin/Debug/net7.0/Prototype.deps.json
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/bin/Debug/net7.0/Prototype.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/bin/Debug/net7.0/Prototype.dll
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/bin/Debug/net7.0/Prototype.pdb
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/obj/Debug/net7.0/Prototype.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/obj/Debug/net7.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/obj/Debug/net7.0/Prototype.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/obj/Debug/net7.0/Prototype.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/obj/Debug/net7.0/Prototype.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/obj/Debug/net7.0/Prototype.dll
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/obj/Debug/net7.0/refint/Prototype.dll
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/obj/Debug/net7.0/Prototype.pdb
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/obj/Debug/net7.0/Prototype.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Creational/Prototype/obj/Debug/net7.0/ref/Prototype.dll
