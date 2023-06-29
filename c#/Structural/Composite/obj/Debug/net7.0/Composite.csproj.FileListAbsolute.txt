@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Structural/Composite/obj/Debug/net7.0/Composite.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Structural/Composite/obj/Debug/net7.0/Composite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Structural/Composite/obj/Debug/net7.0/Composite.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Structural/Composite/obj/Debug/net7.0/Composite.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Structural/Composite/obj/Debug/net7.0/Composite.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Structural/Composite/bin/Debug/net7.0/Composite
+/Users/williamyamada/design-patterns/c#/Structural/Composite/bin/Debug/net7.0/Composite.deps.json
+/Users/williamyamada/design-patterns/c#/Structural/Composite/bin/Debug/net7.0/Composite.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Structural/Composite/bin/Debug/net7.0/Composite.dll
+/Users/williamyamada/design-patterns/c#/Structural/Composite/bin/Debug/net7.0/Composite.pdb
+/Users/williamyamada/design-patterns/c#/Structural/Composite/obj/Debug/net7.0/Composite.dll
+/Users/williamyamada/design-patterns/c#/Structural/Composite/obj/Debug/net7.0/refint/Composite.dll
+/Users/williamyamada/design-patterns/c#/Structural/Composite/obj/Debug/net7.0/Composite.pdb
+/Users/williamyamada/design-patterns/c#/Structural/Composite/obj/Debug/net7.0/Composite.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Structural/Composite/obj/Debug/net7.0/ref/Composite.dll

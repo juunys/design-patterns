@@ -1,4 +1,37 @@
 ﻿<Properties StartupConfiguration="{966A2C0D-7337-4B5A-926A-E330B1805A67}|Default">
-  <MonoDevelop.Ide.ItemProperties.Bridge FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="Program.cs" Line="27" Column="27" />
+      <File FileName="README.md" Line="15" Column="39" />
+      <File FileName="Domain/Employee.cs" Line="10" Column="41" />
+      <File FileName="Implementor/IGeraArquivo.cs" Line="12" Column="1" />
+      <File FileName="ConcreteImplementor/GenerateJson.cs" Line="5" Column="1" />
+      <File FileName="ConcreteImplementor/GenerateXML.cs" Line="12" Column="51" />
+      <File FileName="Abstraction/AbstractionGenerateFile.cs" Line="7" Column="47" />
+      <File FileName="RefinedAbstraction/CalculateSalary.cs" Line="18" Column="82" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bridge" expanded="True">
+            <Node name="Bridge" expanded="True">
+              <Node name="Abstraction" expanded="True" />
+              <Node name="ConcreteImplementor" expanded="True" />
+              <Node name="Domain" expanded="True" />
+              <Node name="Implementor" expanded="True" />
+              <Node name="RefinedAbstraction" expanded="True" />
+              <Node name="README.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Bridge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
