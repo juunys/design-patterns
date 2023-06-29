@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/bin/Debug/net7.0/Singleton
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/bin/Debug/net7.0/Singleton.deps.json
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/bin/Debug/net7.0/Singleton.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/bin/Debug/net7.0/Singleton.dll
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/bin/Debug/net7.0/Singleton.pdb
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/obj/Debug/net7.0/Singleton.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/obj/Debug/net7.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/obj/Debug/net7.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/obj/Debug/net7.0/Singleton.dll
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/obj/Debug/net7.0/refint/Singleton.dll
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/obj/Debug/net7.0/Singleton.pdb
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/obj/Debug/net7.0/Singleton.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Creational/Singleton/obj/Debug/net7.0/ref/Singleton.dll
