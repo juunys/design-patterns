@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/obj/Debug/net7.0/FactoryMethod.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/obj/Debug/net7.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/obj/Debug/net7.0/FactoryMethod.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/obj/Debug/net7.0/FactoryMethod.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/obj/Debug/net7.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/bin/Debug/net7.0/FactoryMethod
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/bin/Debug/net7.0/FactoryMethod.deps.json
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/bin/Debug/net7.0/FactoryMethod.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/bin/Debug/net7.0/FactoryMethod.dll
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/bin/Debug/net7.0/FactoryMethod.pdb
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/obj/Debug/net7.0/FactoryMethod.dll
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/obj/Debug/net7.0/refint/FactoryMethod.dll
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/obj/Debug/net7.0/FactoryMethod.pdb
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/obj/Debug/net7.0/FactoryMethod.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Creational/FactoryMethod/obj/Debug/net7.0/ref/FactoryMethod.dll
