@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/bin/Debug/net7.0/AbstractFactory
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/bin/Debug/net7.0/AbstractFactory.deps.json
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/bin/Debug/net7.0/AbstractFactory.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/bin/Debug/net7.0/AbstractFactory.dll
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/bin/Debug/net7.0/AbstractFactory.pdb
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/obj/Debug/net7.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/obj/Debug/net7.0/AbstractFactory.dll
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/obj/Debug/net7.0/refint/AbstractFactory.dll
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/obj/Debug/net7.0/AbstractFactory.pdb
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/obj/Debug/net7.0/AbstractFactory.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Creational/AbstractFactory/obj/Debug/net7.0/ref/AbstractFactory.dll

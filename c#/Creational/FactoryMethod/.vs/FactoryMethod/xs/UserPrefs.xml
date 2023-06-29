@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{EED6A4B2-4E87-4DB8-A933-80AF1881C684}|Default">
-  <MonoDevelop.Ide.ItemProperties.FactoryMethod FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FactoryMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryMethod" expanded="True">
+            <Node name="FactoryMethod" expanded="True">
+              <Node name="ConcreteCreator" expanded="True">
+                <Node name="PizzaFactoryRJ.cs" selected="True" />
+              </Node>
+              <Node name="ConcreteProduct" expanded="True" />
+              <Node name="Creator" expanded="True" />
+              <Node name="Product" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

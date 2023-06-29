@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Domain\" />
+    <None Remove="Factory\" />
+    <None Remove="Domain\Enums\" />
+    <None Remove="Domain\Products\" />
+    <None Remove="Factory\AbstractFactory\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Domain\" />
+    <Folder Include="Factory\" />
+    <Folder Include="Domain\Enums\" />
+    <Folder Include="Domain\Products\" />
+    <Folder Include="Factory\AbstractFactory\" />
+  </ItemGroup>
+</Project>
