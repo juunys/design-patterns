@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/obj/Debug/net7.0/Bridge.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/obj/Debug/net7.0/Bridge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/obj/Debug/net7.0/Bridge.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/obj/Debug/net7.0/Bridge.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/obj/Debug/net7.0/Bridge.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/bin/Debug/net7.0/Bridge
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/bin/Debug/net7.0/Bridge.deps.json
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/bin/Debug/net7.0/Bridge.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/bin/Debug/net7.0/Bridge.dll
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/bin/Debug/net7.0/Bridge.pdb
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/obj/Debug/net7.0/Bridge.dll
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/obj/Debug/net7.0/refint/Bridge.dll
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/obj/Debug/net7.0/Bridge.pdb
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/obj/Debug/net7.0/Bridge.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Structural/Bridge/obj/Debug/net7.0/ref/Bridge.dll

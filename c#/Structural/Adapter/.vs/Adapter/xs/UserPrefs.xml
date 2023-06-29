@@ -1,4 +1,33 @@
 ﻿<Properties StartupConfiguration="{D5FF20A1-9FD9-4771-ABDE-A99CF2B8609E}|Default">
-  <MonoDevelop.Ide.ItemProperties.Adapter FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Adapter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="Program.cs" Line="15" Column="11" />
+      <File FileName="Domain/Student.cs" Line="16" Column="36" />
+      <File FileName="Target/ITarget.cs" Line="6" Column="66" />
+      <File FileName="Adapter/StudentAdapter.cs" Line="24" Column="6" />
+      <File FileName="Adaptee/MonthlyPaymentsSystem.cs" Line="1" Column="1" />
+      <File FileName="README.md" Line="3" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Adapter" expanded="True">
+            <Node name="Adapter" expanded="True">
+              <Node name="Adaptee" expanded="True" />
+              <Node name="Adapter" expanded="True" />
+              <Node name="Target" expanded="True" />
+              <Node name="README.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
