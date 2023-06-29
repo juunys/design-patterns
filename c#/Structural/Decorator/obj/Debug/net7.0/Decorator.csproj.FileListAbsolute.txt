@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/bin/Debug/net7.0/Decorator
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/bin/Debug/net7.0/Decorator.deps.json
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/bin/Debug/net7.0/Decorator.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/bin/Debug/net7.0/Decorator.dll
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/bin/Debug/net7.0/Decorator.pdb
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/obj/Debug/net7.0/Decorator.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/obj/Debug/net7.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/obj/Debug/net7.0/Decorator.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/obj/Debug/net7.0/Decorator.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/obj/Debug/net7.0/Decorator.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/obj/Debug/net7.0/Decorator.dll
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/obj/Debug/net7.0/refint/Decorator.dll
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/obj/Debug/net7.0/Decorator.pdb
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/obj/Debug/net7.0/Decorator.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Structural/Decorator/obj/Debug/net7.0/ref/Decorator.dll
