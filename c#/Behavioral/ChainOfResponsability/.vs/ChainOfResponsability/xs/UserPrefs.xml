@@ -1,4 +1,33 @@
 ﻿<Properties StartupConfiguration="{2805B529-5800-4195-BF48-6C56785F872E}|Default">
-  <MonoDevelop.Ide.ItemProperties.ChainOfResponsability FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ChainOfResponsability PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Handler/Authorizer.cs">
+    <Files>
+      <File FileName="Program.cs" Line="16" Column="41" />
+      <File FileName="README.md" Line="9" Column="73" />
+      <File FileName="ConcreteHandler/ProjectManager.cs" Line="6" Column="40" />
+      <File FileName="Handler/Authorizer.cs" Line="13" Column="40" />
+      <File FileName="ConcreteHandler/Supervisor.cs" Line="24" Column="55" />
+      <File FileName="ConcreteHandler/Rh.cs" Line="24" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChainOfResponsability" expanded="True">
+            <Node name="ChainOfResponsability" expanded="True">
+              <Node name="ConcreteHandler" expanded="True" />
+              <Node name="Handler" expanded="True">
+                <Node name="Authorizer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
