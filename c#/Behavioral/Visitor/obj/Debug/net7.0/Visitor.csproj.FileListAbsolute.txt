@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/bin/Debug/net7.0/Visitor
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/bin/Debug/net7.0/Visitor.deps.json
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/bin/Debug/net7.0/Visitor.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/bin/Debug/net7.0/Visitor.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/bin/Debug/net7.0/Visitor.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/obj/Debug/net7.0/Visitor.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/obj/Debug/net7.0/Visitor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/obj/Debug/net7.0/Visitor.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/obj/Debug/net7.0/Visitor.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/obj/Debug/net7.0/Visitor.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/obj/Debug/net7.0/Visitor.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/obj/Debug/net7.0/refint/Visitor.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/obj/Debug/net7.0/Visitor.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/obj/Debug/net7.0/Visitor.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Visitor/obj/Debug/net7.0/ref/Visitor.dll

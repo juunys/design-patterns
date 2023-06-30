@@ -1,4 +1,31 @@
 ﻿<Properties StartupConfiguration="{99C826A5-F070-487B-B15B-6E8B3BAF7AE2}|Default">
-  <MonoDevelop.Ide.ItemProperties.TemplateMethod FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TemplateMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="23" Column="28" />
+      <File FileName="README.md" Line="7" Column="91" />
+      <File FileName="AbstractClass/VidePlayer.cs" Line="20" Column="46" />
+      <File FileName="ConcreteClass/VideoMp4.cs" Line="12" Column="6" />
+      <File FileName="ConcreteClass/VideoMkv.cs" Line="10" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TemplateMethod" expanded="True">
+            <Node name="TemplateMethod" expanded="True">
+              <Node name="AbstractClass" expanded="True" />
+              <Node name="ConcreteClass" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
