@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/obj/Debug/net7.0/Mediator.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/obj/Debug/net7.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/obj/Debug/net7.0/Mediator.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/obj/Debug/net7.0/Mediator.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/obj/Debug/net7.0/Mediator.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/bin/Debug/net7.0/Mediator
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/bin/Debug/net7.0/Mediator.deps.json
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/bin/Debug/net7.0/Mediator.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/bin/Debug/net7.0/Mediator.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/bin/Debug/net7.0/Mediator.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/obj/Debug/net7.0/Mediator.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/obj/Debug/net7.0/refint/Mediator.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/obj/Debug/net7.0/Mediator.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/obj/Debug/net7.0/Mediator.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Mediator/obj/Debug/net7.0/ref/Mediator.dll
