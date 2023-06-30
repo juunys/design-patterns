@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Behavioral/State/bin/Debug/net7.0/State
+/Users/williamyamada/design-patterns/c#/Behavioral/State/bin/Debug/net7.0/State.deps.json
+/Users/williamyamada/design-patterns/c#/Behavioral/State/bin/Debug/net7.0/State.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Behavioral/State/bin/Debug/net7.0/State.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/State/bin/Debug/net7.0/State.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/State/obj/Debug/net7.0/State.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/State/obj/Debug/net7.0/State.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Behavioral/State/obj/Debug/net7.0/State.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/State/obj/Debug/net7.0/State.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Behavioral/State/obj/Debug/net7.0/State.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/State/obj/Debug/net7.0/State.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/State/obj/Debug/net7.0/refint/State.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/State/obj/Debug/net7.0/State.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/State/obj/Debug/net7.0/State.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/State/obj/Debug/net7.0/ref/State.dll
