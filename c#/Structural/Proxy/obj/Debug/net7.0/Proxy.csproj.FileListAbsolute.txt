@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/bin/Debug/net7.0/Proxy
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/bin/Debug/net7.0/Proxy.deps.json
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/bin/Debug/net7.0/Proxy.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/bin/Debug/net7.0/Proxy.dll
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/bin/Debug/net7.0/Proxy.pdb
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/obj/Debug/net7.0/Proxy.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/obj/Debug/net7.0/Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/obj/Debug/net7.0/Proxy.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/obj/Debug/net7.0/Proxy.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/obj/Debug/net7.0/Proxy.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/obj/Debug/net7.0/Proxy.dll
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/obj/Debug/net7.0/refint/Proxy.dll
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/obj/Debug/net7.0/Proxy.pdb
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/obj/Debug/net7.0/Proxy.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Structural/Proxy/obj/Debug/net7.0/ref/Proxy.dll

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Subject\" />
+    <None Remove="RealSubject\" />
+    <None Remove="Proxy\" />
+    <None Remove="Domain\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Subject\" />
+    <Folder Include="RealSubject\" />
+    <Folder Include="Proxy\" />
+    <Folder Include="Domain\" />
+  </ItemGroup>
+</Project>
