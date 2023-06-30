@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/bin/Debug/net7.0/Memento
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/bin/Debug/net7.0/Memento.deps.json
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/bin/Debug/net7.0/Memento.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/bin/Debug/net7.0/Memento.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/bin/Debug/net7.0/Memento.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/obj/Debug/net7.0/Memento.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/obj/Debug/net7.0/Memento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/obj/Debug/net7.0/Memento.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/obj/Debug/net7.0/Memento.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/obj/Debug/net7.0/Memento.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/obj/Debug/net7.0/Memento.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/obj/Debug/net7.0/refint/Memento.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/obj/Debug/net7.0/Memento.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/obj/Debug/net7.0/Memento.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Memento/obj/Debug/net7.0/ref/Memento.dll

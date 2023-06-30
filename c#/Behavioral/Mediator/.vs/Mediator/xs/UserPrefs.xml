@@ -1,4 +1,35 @@
 ﻿<Properties StartupConfiguration="{AEB63F84-B9BA-489D-9454-39EAD816C98F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConcreteColleague/ConcreteUser.cs">
+    <Files>
+      <File FileName="Program.cs" Line="26" Column="24" />
+      <File FileName="README.md" Line="8" Column="78" />
+      <File FileName="Mediator/FacebookGroupMediator.cs" Line="9" Column="32" />
+      <File FileName="ConcreteMediator/ConcreteFacebookGroupMediator.cs" Line="9" Column="50" />
+      <File FileName="Colleague/User.cs" Line="6" Column="18" />
+      <File FileName="ConcreteColleague/ConcreteUser.cs" Line="20" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mediator" expanded="True">
+            <Node name="Mediator" expanded="True">
+              <Node name="Colleague" expanded="True" />
+              <Node name="ConcreteColleague" expanded="True">
+                <Node name="ConcreteUser.cs" selected="True" />
+              </Node>
+              <Node name="ConcreteMediator" expanded="True" />
+              <Node name="Mediator" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Mediator FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Mediator PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
