@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/bin/Debug/net7.0/Observer
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/bin/Debug/net7.0/Observer.deps.json
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/bin/Debug/net7.0/Observer.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/bin/Debug/net7.0/Observer.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/bin/Debug/net7.0/Observer.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/obj/Debug/net7.0/Observer.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/obj/Debug/net7.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/obj/Debug/net7.0/Observer.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/obj/Debug/net7.0/Observer.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/obj/Debug/net7.0/Observer.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/obj/Debug/net7.0/Observer.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/obj/Debug/net7.0/refint/Observer.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/obj/Debug/net7.0/Observer.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/obj/Debug/net7.0/Observer.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Observer/obj/Debug/net7.0/ref/Observer.dll
