@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/bin/Debug/net7.0/Strategy
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/bin/Debug/net7.0/Strategy.deps.json
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/bin/Debug/net7.0/Strategy.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/bin/Debug/net7.0/Strategy.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/bin/Debug/net7.0/Strategy.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/obj/Debug/net7.0/Strategy.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/obj/Debug/net7.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/obj/Debug/net7.0/Strategy.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/obj/Debug/net7.0/Strategy.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/obj/Debug/net7.0/Strategy.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/obj/Debug/net7.0/Strategy.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/obj/Debug/net7.0/refint/Strategy.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/obj/Debug/net7.0/Strategy.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/obj/Debug/net7.0/Strategy.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/Strategy/obj/Debug/net7.0/ref/Strategy.dll
