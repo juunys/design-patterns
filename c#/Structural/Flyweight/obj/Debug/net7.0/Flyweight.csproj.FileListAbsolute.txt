@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/bin/Debug/net7.0/Flyweight
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/bin/Debug/net7.0/Flyweight.deps.json
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/bin/Debug/net7.0/Flyweight.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/bin/Debug/net7.0/Flyweight.dll
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/bin/Debug/net7.0/Flyweight.pdb
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/obj/Debug/net7.0/Flyweight.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/obj/Debug/net7.0/Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/obj/Debug/net7.0/Flyweight.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/obj/Debug/net7.0/Flyweight.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/obj/Debug/net7.0/Flyweight.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/obj/Debug/net7.0/Flyweight.dll
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/obj/Debug/net7.0/refint/Flyweight.dll
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/obj/Debug/net7.0/Flyweight.pdb
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/obj/Debug/net7.0/Flyweight.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Structural/Flyweight/obj/Debug/net7.0/ref/Flyweight.dll
