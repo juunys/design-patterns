@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/bin/Debug/net7.0/TemplateMethod
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/bin/Debug/net7.0/TemplateMethod.deps.json
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/bin/Debug/net7.0/TemplateMethod.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/bin/Debug/net7.0/TemplateMethod.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/bin/Debug/net7.0/TemplateMethod.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/obj/Debug/net7.0/TemplateMethod.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/obj/Debug/net7.0/TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/obj/Debug/net7.0/TemplateMethod.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/obj/Debug/net7.0/TemplateMethod.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/obj/Debug/net7.0/TemplateMethod.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/obj/Debug/net7.0/TemplateMethod.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/obj/Debug/net7.0/refint/TemplateMethod.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/obj/Debug/net7.0/TemplateMethod.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/obj/Debug/net7.0/TemplateMethod.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/TemplateMethod/obj/Debug/net7.0/ref/TemplateMethod.dll
