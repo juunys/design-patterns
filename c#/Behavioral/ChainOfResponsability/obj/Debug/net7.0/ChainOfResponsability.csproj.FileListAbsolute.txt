@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/bin/Debug/net7.0/ChainOfResponsability
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/bin/Debug/net7.0/ChainOfResponsability.deps.json
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/bin/Debug/net7.0/ChainOfResponsability.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/bin/Debug/net7.0/ChainOfResponsability.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/bin/Debug/net7.0/ChainOfResponsability.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/obj/Debug/net7.0/refint/ChainOfResponsability.dll
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.pdb
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Behavioral/ChainOfResponsability/obj/Debug/net7.0/ref/ChainOfResponsability.dll
