@@ -1,0 +1,15 @@
+/Users/williamyamada/design-patterns/c#/Structural/Facade/bin/Debug/net7.0/Facade
+/Users/williamyamada/design-patterns/c#/Structural/Facade/bin/Debug/net7.0/Facade.deps.json
+/Users/williamyamada/design-patterns/c#/Structural/Facade/bin/Debug/net7.0/Facade.runtimeconfig.json
+/Users/williamyamada/design-patterns/c#/Structural/Facade/bin/Debug/net7.0/Facade.dll
+/Users/williamyamada/design-patterns/c#/Structural/Facade/bin/Debug/net7.0/Facade.pdb
+/Users/williamyamada/design-patterns/c#/Structural/Facade/obj/Debug/net7.0/Facade.csproj.AssemblyReference.cache
+/Users/williamyamada/design-patterns/c#/Structural/Facade/obj/Debug/net7.0/Facade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamyamada/design-patterns/c#/Structural/Facade/obj/Debug/net7.0/Facade.AssemblyInfoInputs.cache
+/Users/williamyamada/design-patterns/c#/Structural/Facade/obj/Debug/net7.0/Facade.AssemblyInfo.cs
+/Users/williamyamada/design-patterns/c#/Structural/Facade/obj/Debug/net7.0/Facade.csproj.CoreCompileInputs.cache
+/Users/williamyamada/design-patterns/c#/Structural/Facade/obj/Debug/net7.0/Facade.dll
+/Users/williamyamada/design-patterns/c#/Structural/Facade/obj/Debug/net7.0/refint/Facade.dll
+/Users/williamyamada/design-patterns/c#/Structural/Facade/obj/Debug/net7.0/Facade.pdb
+/Users/williamyamada/design-patterns/c#/Structural/Facade/obj/Debug/net7.0/Facade.genruntimeconfig.cache
+/Users/williamyamada/design-patterns/c#/Structural/Facade/obj/Debug/net7.0/ref/Facade.dll
